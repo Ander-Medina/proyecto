@@ -159,7 +159,7 @@ footer p{
     background-color: blueviolet;
     padding:30px;
     /* Bordes redondeados */
-    -moz-borde-radius:10px:
+    -moz-borde-radius:10px;
     -webkit-borde-radius: 10px;
-    borde-radius:10px;
+    -borde-radius:10px;
 }
